@@ -1,5 +1,5 @@
 {
-  "name": "django-swagger",
+  "name": "@mccue/django-swagger",
   "version": "1.0.0",
   "description": "Code for working with django-rest-swagger from the frontend",
   "repository": {
