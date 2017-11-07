@@ -1,7 +1,11 @@
 {
-  "name": "@mccue/django-swagger",
+  "name": "django-swagger",
   "version": "1.0.0",
   "description": "Code for working with django-rest-swagger from the frontend",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bowbahdoe/django-swagger"
+  },
   "main": "dist/swagger.js",
   "scripts": {
     "build": "babel src --presets babel-preset-es2015 --out-dir dist",
